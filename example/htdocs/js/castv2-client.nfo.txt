@@ -1,0 +1,9 @@
+https://github.com/warren-bank/browser-castv2-client
+  window.castv2_client
+
+https://github.com/warren-bank/browser-castv2-client/releases/tag/v1.0.0
+https://github.com/warren-bank/browser-castv2-client/tree/v1.0.0
+https://github.com/warren-bank/browser-castv2-client/tree/v1.0.0/dist
+https://github.com/warren-bank/browser-castv2-client/raw/v1.0.0/dist/es2020/castv2-client.js
+
+https://cdn.jsdelivr.net/npm/@warren-bank/browser-castv2-client@1.0.0/dist/es2020/castv2-client.js
